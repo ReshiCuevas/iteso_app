@@ -87,5 +87,3 @@ class LikeButtonState extends State<LikeButton> {
     _color = _color == Colors.black ? Colors.indigo : Colors.black;
   }
 }
-
-void doNothing() {}
